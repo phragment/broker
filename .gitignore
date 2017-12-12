@@ -1,0 +1,8 @@
+*.swp
+amqp/client/libs/__pycache__/
+amqp/rabbit1/log/*
+amqp/rabbit1/mnesia/*
+amqp/rabbit2/log/*
+amqp/rabbit2/mnesia/*
+mqtt/client/libs/__pycache__/
+
